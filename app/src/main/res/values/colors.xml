@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">@color/lightInk</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">@color/green</color>
+    <color name="teal_700">#4D00B238</color>
+    <color name="black">#FF000000</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:ignore="MissingDefaultResource">
+        @color/darkGray
+    </color>
+    <color name="white">#FFFFFF</color>
+    <color name="likeBtn">#00B238</color>
+    <color name="background">#F3F3F3</color>
+    <color name="background_btn">#FFFFFF</color>
+    <color name="green">#00B238</color>
+    <color name="bottomItemColor">#CCF0D7</color>
+    <color name="lightInk">#FFFFFF</color>
+    <color name="writerLikeBtn">@color/black</color>
+    <color name="hintColor">#616161</color>
+    <color name="bottomColor">#FFFFFF</color>
+    <color name="lightGray">#C1C2C3</color>
+    <color name="darkGray">#92979F</color>
+    <color name="buttonColor">#F9F9F9</color>
+    <color name="textColor">#303236</color>
+    <color name="iconColor">#303236</color>
+    <color name="switchColor">#64dd16</color>
+    <color name="permissionIconColor">#25303f</color>
+    <color name="itemColorNotSelected">#b0e4be</color>
+    <color name="itemColorSelected">#FFFFFF</color>
+    <color name="textHighLight">#64dd16</color>
+</resources>

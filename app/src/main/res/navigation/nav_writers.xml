@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_writers.xml"
+    app:startDestination="@id/writers">
+
+    <fragment
+        android:id="@+id/writers"
+        android:name="com.fragment.Writers"
+        android:label="Writers"
+        tools:layout="@layout/writers_fragment">
+        <action
+            android:id="@+id/action_home_to_search"
+            app:destination="@id/search" />
+        <action
+            android:id="@+id/action_writers_to_writer"
+            app:destination="@id/aboutWriter" />
+        <action
+            android:id="@+id/action_writers_to_typeOfLiteratures"
+            app:destination="@id/typeOfLiteratures" />
+    </fragment>
+    <fragment
+        android:id="@+id/addWriter"
+        android:name="com.fragment.AddWriter"
+        android:label="add_writer"
+        tools:layout="@layout/add_writer_fragment" />
+    <fragment
+        android:id="@+id/bookmark"
+        android:name="com.fragment.Bookmark"
+        android:label="Bookmark"
+        tools:layout="@layout/bookmark_fragment">
+        <action
+            android:id="@+id/action_bookmark_to_writer"
+            app:destination="@id/aboutWriter" />
+    </fragment>
+    <fragment
+        android:id="@+id/search"
+        android:name="com.fragment.Search"
+        android:label="search"
+        tools:layout="@layout/search_fragment" />
+    <fragment
+        android:id="@+id/setting"
+        android:name="com.fragment.Setting"
+        android:label="setting"
+        tools:layout="@layout/setting_fragment">
+        <action
+            android:id="@+id/action_setting_to_search"
+            app:destination="@id/search" />
+        <action
+            android:id="@+id/action_setting_to_addWriter"
+            app:destination="@id/addWriter" />
+    </fragment>
+    <fragment
+        android:id="@+id/aboutWriter"
+        android:name="com.fragment.AboutWriter"
+        android:label="Writer"
+        tools:layout="@layout/writer_fragment" />
+    <fragment
+        android:id="@+id/typeOfLiteratures"
+        android:name="com.fragment.TypeOfLiteratures"
+        android:label="fragment_type_of_literatures"
+        tools:layout="@layout/fragment_type_of_literatures" >
+        <action
+            android:id="@+id/action_typeOfLiteratures_to_writer"
+            app:destination="@id/aboutWriter" />
+    </fragment>
+</navigation>

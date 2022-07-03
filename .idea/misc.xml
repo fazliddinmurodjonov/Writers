@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable-v24/background_bookmark.xml" value="0.161" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable-v24/background_bookmark_writer_green.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable-v24/background_btn_add_writer.xml" value="0.1525" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable-v24/bookmark_background.xml" value="0.161" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1545" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable-v24/selector_text.xml" value="0.1525" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/about.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/about_program.xml" value="0.161" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/add.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/add_writer.xml" value="0.161" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/art_bookmark.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/art_bookmark_empty.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/art_bookmark_empty_for_item.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/art_bookmark_green.xml" value="0.124" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/back.xml" value="0.161" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/background_bookmark.xml" value="0.161" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/background_bookmark_green.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/background_bookmark_white.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/background_bookmark_writer.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/background_bottom_nav.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/background_btn.xml" value="0.1525" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/background_btn_back.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/background_btn_bookmark.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/background_edit_text.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/background_nav_btn.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/background_spinner.xml" value="0.1525" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/background_tab_layout.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/bookmark.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/bookmark_empty.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/camera.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/close.xml" value="0.161" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/custom_switch_off.xml" value="0.6" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/custom_switch_on.xml" value="0.1525" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/down_arrow.xml" value="0.1525" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/exit.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/gallery.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1545" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/icon.xml" value="0.13" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/logo.xml" value="0.161" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/mode.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/saved_black.xml" value="0.161" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/saved_bottom_white.xml" value="0.161" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/saved_white.xml" value="0.161" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/search.xml" value="0.161" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/selector_background.xml" value="0.1525" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/selector_bookmark.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/setting.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/setting_bottom_green.xml" value="0.1545" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/setting_bottom_green_.xml" value="0.1545" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/setting_bottom_green_S.xml" value="0.1545" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/setting_bottom_green_gr.xml" value="0.1545" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/setting_bottom_white.xml" value="0.161" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/share.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/switch_track_on.xml" value="0.1525" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/switch_track_selector.xml" value="0.1525" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/thumb.xml" value="0.1525" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/track.xml" value="0.1525" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/track_selector.xml" value="0.1525" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/drawable/writer.xml" value="0.123" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout-v26/item_spinner.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout-v26/writer_fragment.xml" value="0.264" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/activity_main.xml" value="0.128" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/add_writer_fragment.xml" value="0.176" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/bookmark_fragment.xml" value="0.176" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/dialog_about_program.xml" value="0.2" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/dialog_permission.xml" value="0.536" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/fragment_type_of_literatures.xml" value="0.23975409836065573" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/home_fragment.xml" value="0.23981481481481481" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/item_item.xml" value="0.8800000000000001" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/item_spinner.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/item_tab_layout.xml" value="0.5733333333333334" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/item_writer.xml" value="0.264" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/save.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/scrollinh.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/search.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/search_fragment.xml" value="0.2" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/selector_text_tl.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/setting_fragment.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/ui_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/writer_fragment.xml" value="0.176" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/layout/writers_fragment.xml" value="0.152" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/menu/bookmark.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/menu/nav_menu.xml" value="0.24010416666666667" />
+        <entry key="..\:/Programming/PDP/ConnectionLesson_5_Firebase_Storage/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.161" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
