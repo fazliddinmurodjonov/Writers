@@ -1,5 +1,5 @@
 # Writers
-<h4>This app for lovers of uzbek and world literature.It have been connected  with Firebase Storage and Firestore.You can add writer.<h4>
+<h4>This app for lovers of uzbek and world literature. It has been connected  with Firebase Storage and Firestore. You can add writer.<h4>
 
 <h2>DAY MODE<h2>
 
