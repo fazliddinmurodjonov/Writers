@@ -20,5 +20,5 @@ https://user-images.githubusercontent.com/77713867/177042486-d85dd3a4-3ab0-4b03-
 
 <h3>I made icon for this app.<h3>
 
-<img src="images/icon_rec.png" width = "150">
-<img src="images/icon_circle.png" width = "150">
+<img src="images/icon_rec.png" width = "200">
+<img src="images/icon_circle.png" width = "200">
